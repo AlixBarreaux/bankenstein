@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   viewBox="0 0 96 96"
+   version="1.1"
+   id="svg9724"
+   sodipodi:docname="people_icon.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   width="96"
+   height="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9728" />
+  <sodipodi:namedview
+     id="namedview9726"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="3.3647453"
+     inkscape:cx="51.266882"
+     inkscape:cy="69.990439"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10449"
+     showguides="true"
+     inkscape:pageshadow="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9972"
+       originx="0"
+       originy="0" />
+    <sodipodi:guide
+       position="-260,300"
+       orientation="0,-1"
+       id="guide383"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="300,520"
+       orientation="1,0"
+       id="guide385"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="240,520"
+       orientation="0,-1"
+       id="guide939"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="220,80"
+       orientation="0,-1"
+       id="guide941"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="g10449"
+     transform="matrix(0.95173205,0,0,0.95115787,13.901174,12.168794)"
+     style="stroke-width:1.05103">
+    <g
+       id="path10026"
+       inkscape:transform-center-x="-0.59233046"
+       inkscape:transform-center-y="-20.347403"
+       transform="matrix(1.3807551,0,0,1.2700888,273.60014,263.99768)" />
+    <g
+       id="g11314"
+       transform="matrix(1.5092301,0,0,1.3955555,36.774048,-9.4503933)"
+       style="stroke-width:50.6951" />
+    <path
+       style="color:#000000;fill:#ffffff;stroke-width:0.168165;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="m 27.422451,-12.793664 c -11.541186,0 -21.0143185,9.4801495 -21.0143185,21.0227317 0,6.2273843 2.7608032,11.8514433 7.1126915,15.7134143 -16.4299863,6.086606 -28.127009,22.625077 -28.127009,41.7662 a 5.6060673,5.6060673 0 0 0 5.6055694,5.605668 H 17.964038 c 1.102186,-4.073988 2.867149,-7.864068 5.193491,-11.211007 H -2.9514471 C -0.47229868,44.356011 12.272446,32.65489 27.422451,32.65489 c 2.099657,0 4.150504,0.232245 6.136838,0.661365 0.68212,-6.8494 5.535343,-12.529493 11.956818,-14.451794 1.852689,-3.126528 2.920662,-6.764147 2.920662,-10.6353933 0,-11.5425822 -9.473134,-21.0227317 -21.014318,-21.0227317 z m 0,11.211007 c 5.478869,0 9.803179,4.3245534 9.803179,9.8117247 0,5.4871713 -4.32431,9.8123843 -9.803179,9.8123843 -5.478869,0 -9.803507,-4.325213 -9.803507,-9.8123843 0,-5.4871713 4.324638,-9.8117247 9.803507,-9.8117247 z"
+       id="path295" />
+    <path
+       id="path295-3"
+       style="color:#000000;fill:#ffffff;stroke-width:0.168165;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="m 52.639643,20.849541 c -9.232957,0 -16.811455,7.584242 -16.811455,16.818318 0,4.981911 2.208549,9.481063 5.690063,12.570644 -13.144002,4.869289 -22.501519,18.100089 -22.501519,33.413003 a 4.4848539,4.4848539 0 0 0 4.484368,4.484447 h 29.138543 29.138323 a 4.4848539,4.4848539 0 0 0 4.484576,-4.484447 c 0,-15.312863 -9.35736,-28.543672 -22.501291,-33.413003 3.481515,-3.089581 5.689844,-7.588733 5.689844,-12.570644 0,-9.234076 -7.578496,-16.818318 -16.811452,-16.818318 z m 0,8.968895 c 4.383099,0 7.842499,3.459681 7.842499,7.849423 0,4.389741 -3.4594,7.849863 -7.842499,7.849863 -4.3831,0 -7.84272,-3.460122 -7.84272,-7.849863 0,-4.389742 3.45962,-7.849423 7.84272,-7.849423 z m 0,27.389862 c 12.120016,0 22.315795,9.360883 24.299123,21.958761 H 52.639643 28.340524 C 30.323844,66.569181 40.519627,57.208298 52.639643,57.208298 Z" />
+  </g>
+</svg>

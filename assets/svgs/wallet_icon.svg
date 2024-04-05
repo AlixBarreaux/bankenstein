@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 2.88 2.88"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="wallet_icon.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="4.16"
+     inkscape:cx="31.850962"
+     inkscape:cy="63.341346"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     d="m 2.4252633,0.75789479 v -0.3031579 c 0,-0.1674295 -0.1357238,-0.3031579 -0.3031579,-0.3031579 H 0.45473689 c -0.1674295,0 -0.3031579,0.1357284 -0.3031579,0.3031579 V 2.2736843 c 0,0.1674341 0.1357284,0.3031579 0.3031579,0.3031579 H 2.1221054 c 0.1674341,0 0.3031579,-0.1357238 0.3031579,-0.3031579 V 1.9705264"
+     stroke="#000000"
+     stroke-width="0.303158"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path2"
+     style="stroke:#ffffff" />
+  <rect
+     x="1.5157896"
+     y="0.75789493"
+     width="1.2126316"
+     height="1.2126316"
+     rx="0.15157895"
+     stroke="#000000"
+     stroke-width="0.303158"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="rect4"
+     style="stroke:#ffffff" />
+  <circle
+     cx="2.1221051"
+     cy="1.3642106"
+     r="0.22736841"
+     fill="#000000"
+     id="circle6"
+     style="stroke-width:0.151579;stroke:#ffffff;fill:#f2f2f2" />
+</svg>
