@@ -1,4 +1,4 @@
-# Description:
+# Description
 
 This app served as an experiment for me to try Flutter for the first time.
 This is a "fake" banking app with frontend only. (No web API calls)
